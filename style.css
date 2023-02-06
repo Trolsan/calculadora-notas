@@ -1,0 +1,39 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+main {
+
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: #000 dotted 2px;
+    background-color: #435f81;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 20px;
+}
+
+h1 {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    width: 80vw;
+    padding: 5%;
+    background-color: #2E4159;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 50px;
+}
